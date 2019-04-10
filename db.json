@@ -1,8 +1,8 @@
 {
   "currencies": [
-  { id: 1, country: 'Australia', currencyCode: 'AUD', currencyName: 'Australian dolar', buying: 72.5015, average: 74.5015, selling: 76.5015, margin: 0.2561 },
-  { id: 2, country: 'Canada', currencyCode: 'CAD', currencyName: 'Canadian dolar', buying: 75.5015, average: 77.5015, selling: 80.5015, margin: 0.3521 },
-  { id: 3, country: 'USA', currencyCode: 'USD', currencyName: 'United States dolar', buying: 108.5015, average: 110.5015, selling: 112.5015, margin: 0.1952 },
-  { id: 4, country: 'EMU', currencyCode: 'EUR', currencyName: 'European euro', buying: 116.5015, average: 118.5015, selling: 120.5015, margin: 0.2251 }
+  { "id": 1, "country": "Australia", "currencyCode": "AUD", "currencyName": "Australian dolar", "buying": 72.5015, "average": 74.5015, "selling": 76.5015, "margin": 0.2561 },
+  { "id": 2, "country": "Canada", "currencyCode": "CAD", "currencyName": "Canadian dolar", "buying": 75.5015, "average": 77.5015, "selling": 80.5015, "margin": 0.3521 },
+  { "id": 3, "country": "USA", "currencyCode": "USD", "currencyName": "United States dolar", "buying": 108.5015, "average": 110.5015, "selling": 112.5015, "margin": 0.1952 },
+  { "id": 4, "country": "EMU", "currencyCode": "EUR", "currencyName": "European euro", "buying": 116.5015, "average": 118.5015, "selling": 120.5015, "margin": 0.2251 }
   ]
 }
